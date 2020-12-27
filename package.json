@@ -1,0 +1,38 @@
+{
+    "name": "verglas",
+    "displayName": "Verglas",
+    "description": "A dark theme focusing on muted blue colours.",
+    "version": "0.0.1",
+    "publisher": "Andrew Midenda",
+    "author": {
+        "name": "Andrew Midenda"
+    },
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "repository": {},
+    "bugs": {},
+    "galleryBanner": {
+        "color": "",
+        "theme": "dark"
+    },
+    "icon": "images/icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Verglas",
+        "Dark Theme",
+        "Blue",
+        "Ice"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Verglas",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Verglas-color-theme.json"
+            }
+        ]
+    }
+}
