@@ -521,6 +521,10 @@
     "diffEditor.border": "#ff0000",
     "diffEditor.diagonalFill": "#ff0000",
 
+    "editorGutter.addedBackground": "#59ff5996",
+    "editorGutter.deletedBackground": "#ff0000",
+
+    "panel.border": "#00bbd4",
     "panelTitle.activeForeground": "#dff1fa",
     "panelTitle.inactiveForeground": "#8490bb",
     "panelSection.dropBackground": "#8490bb17",

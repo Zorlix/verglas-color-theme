@@ -10,10 +10,15 @@
     "engines": {
         "vscode": "^1.45.0"
     },
-    "repository": {},
-    "bugs": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Zorlix/verglas-color-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/Zorlix/verglas-color-theme/issues"
+    },
     "galleryBanner": {
-        "color": "",
+        "color": "#12151c",
         "theme": "dark"
     },
     "icon": "images/icon.png",

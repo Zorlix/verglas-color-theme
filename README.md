@@ -1,17 +1,6 @@
-# README
-## This is the README for your extension "verglas"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Verglas for Visual Studio Code
+## A dark color theme focusing on muted blue and grey colours.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![default editor view with example code](images/editor-example.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
-
-
-
-Hello! This is my readme.
+*Note: This theme is still in beta, so some color rules may have not yet been set. To report issues, go to our [GitHub Repository](https://github.com/Zorlix/verglas-color-theme)*.
