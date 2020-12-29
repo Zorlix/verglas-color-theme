@@ -393,7 +393,32 @@
         "foreground": "#aec2e0", // #dff1fa
         "fontStyle": ""
       }
+    },
+    {
+      "name": "JSON Rule Name",
+      "scope": [
+        "source.json",
+        "support.type.property-name.json",
+        "string.json"
+      ],
+      "settings": {
+        "foreground": "#aec2e0",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "JSON Rule String",
+      "scope": [
+        "source.json",
+        "string.quoted.double.json",
+        "string.quoted.single.json"
+      ],
+      "settings": {
+        "foreground": "#6ee2ff",
+        "fontStyle": ""
+      }
     }
+
   ],
 
   "colors": {
